@@ -223,3 +223,11 @@ homework
 - Solution:
 
 *type your answer here*
+
+1 mkdir math/geometry/
+2 mv geometry/week01_hw.txt math/geometry/exercises/
+3 mv history/taylor_polynomial.md math/calculus
+4
+5 mv math/geometry/pithagorean_theorem.md math/geometry/pythagorean_theorem.md
+6 git add .
+git commit -m "reorganising files"
